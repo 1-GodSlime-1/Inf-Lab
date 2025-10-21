@@ -57,6 +57,7 @@
     - Вывод средств
 
 ![UseCase Диаграмма](https://i.ibb.co/cKJT5Xzt/Usecace.png)  
+
 ![Блок Схема](https://i.ibb.co/TqqGf1Gy/image.png)
 
-[Очень важная ссылка](https://www.youtube.com/watch?v=aQ0b536eSB0)
+![Енотик](https://tenor.com/bq5dO3Jp1Io.gif)
