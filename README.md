@@ -58,9 +58,9 @@
 
 ![UseCase Диаграмма](https://i.ibb.co/Cp91bzbS/image.png)  
 
-![Блок Схема 1](https://i.ibb.co/TqqGf1Gy/image.png)  
+![Блок Схема 1](https://i.ibb.co/4wZZ0Yp9/image.png)  
 
-![Блок Схема 2](https://i.ibb.co/rKm0n7zG/image.png)  
+![Блок Схема 2](https://i.ibb.co/Tx6B8ZrM/image.png)  
 
 > [!CAUTION]
-> [Очень важная ссылка дубль 2](https://www.youtube.com/watch?v=_tA1nP1iits)
+> [Очень важная ссылка](https://www.youtube.com/watch?v=_tA1nP1iits)
