@@ -58,6 +58,9 @@
 
 ![UseCase Диаграмма](https://i.ibb.co/Cp91bzbS/image.png)  
 
-![Блок Схема](https://i.ibb.co/TqqGf1Gy/image.png)
+![Блок Схема 1](https://i.ibb.co/TqqGf1Gy/image.png)  
 
-![Енотик](https://tenor.com/bq5dO3Jp1Io.gif)
+![Блок Схема 2](https://i.ibb.co/rKm0n7zG/image.png)  
+
+> [!CAUTION]
+> [Очень важная ссылка дубль 2](https://www.youtube.com/watch?v=_tA1nP1iits)
