@@ -56,7 +56,7 @@
     - Отметка о получении неденежных пожертвований (корм, медикаменты)
     - Вывод средств
 
-![UseCase Диаграмма](https://i.ibb.co/cKJT5Xzt/Usecace.png)  
+![UseCase Диаграмма](https://i.ibb.co/mj05z3M/Usecase.png)  
 
 ![Блок Схема](https://i.ibb.co/TqqGf1Gy/image.png)
 
