@@ -62,5 +62,7 @@
 
 ![Блок Схема 2](https://i.ibb.co/Tx6B8ZrM/image.png)  
 
+![ERD](https://i.ibb.co/Ld1SzP6B/image.png)
+
 > [!CAUTION]
 > [Очень важная ссылка](https://www.youtube.com/watch?v=_tA1nP1iits)
